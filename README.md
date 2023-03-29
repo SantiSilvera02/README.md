@@ -7,11 +7,11 @@
    Bienvenidos a mi perfil 👋
   </h2>
  
-<img  align="center" height="250px" width="70%" alt="GIF" src = https://froggydevelopers.com/assets/img/planes.gif>
+
 
 ---
 
-
+<img  align="right" height="250px" width="40%" alt="GIF" src = https://www.gbysoftware.com/Content/img/software-deve.gif>
 
   **Algo sobre mi:** </br>
     - 🌱 Me encuentro estudiando y aprendiendo tecnologias Frontend y Backend .</br>
