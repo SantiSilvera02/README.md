@@ -12,30 +12,23 @@
 ---
 <img  align="right" height="250px" width="400px" alt="GIF" src = https://www.medicaligne.fr/wp-content/uploads/2022/06/software.gif>
 
-  **Talking about Personal Stuffs:** </br>
-    - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux, etc.</br>
-    - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
-    - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
-    - ⚡ Fun fact: Video-games, anime, movies and a good beer .</br>
-    - 📝[Resume](https://github.com/Knd0/Knd0/blob/main/CV%20INGLES.pdf)</br>
+  **Algo sobre mi:** </br>
+    ◻ Me encuentro estudiando y aprendiendo tecnologias Frontend y Backend .</br>
+    ◻ Me gustaria ir creando varios proyectos personales para seguir aprendiendo e implementando nuevas tecnologais.</br>
+    ◻ Soy fanatico del cafe y del buen vino.</br>
+    
 
  
 ---
-**Personal Projects** 📚 </br></br>
-<ul>
- <li><a href="https://pf-henryss.vercel.app/">📈🚗 Cars E-Commerce</a></li>
-</ul>
-<br />
 
----
-**Contact with me** 📝 </br></br>
+**Contacto** 📝 </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-silvera-287560145/)](https://www.linkedin.com/in/santiago-silvera-287560145/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshojita110@gmail.com)](mailto:multifranco0@gmail.com)
 <br />
 
 ---
 
-### Languages and Tools 🛠 
+### Aptitudes 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
