@@ -7,7 +7,7 @@
    Bienvenidos a mi perfil 👋
   </h2>
  
-<img  align="center" height="250px" width="100%" alt="GIF" src = https://froggydevelopers.com/assets/img/planes.gif>
+<img  align="center" height="250px" width="70%" alt="GIF" src = https://froggydevelopers.com/assets/img/planes.gif>
 
 ---
 
