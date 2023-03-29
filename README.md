@@ -1,28 +1,53 @@
-# Hola! Mi nombre es Santiago Silvera
-
-# ¿Quien soy?
-Soy un programador Fullstack, desde que soy chico siempre me interese por la programacion y en este 2023 estoy iniciando a fondo en ello
-
+<!--
+**SantiSilvera02/Santiago Silvera ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
+  <h2 align="center">
+   Bienvenidos a mi perfil 👋
+  </h2>
+ 
 
 
-# ¿Que hago?
-Actualmente eh terminado el bootcamp de SoyHenry y estoy comenzando a crear mis primeros proyectos que me permitan mejorar mis conocimientos y habilidades como programador.
+---
+<img  align="right" height="250px" width="400px" alt="GIF" src = https://www.medicaligne.fr/wp-content/uploads/2022/06/software.gif>
 
-# ¿Que tecnologias uso?
-El Bootcamp de Henry me a permitido formarme y adquirir algunos conocimientos en distintas tecnologias como lo son:
+  **Talking about Personal Stuffs:** </br>
+    - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux, etc.</br>
+    - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
+    - 💪🏼 Future Goals: Learn more technologies - work in a team 💪🏼</br>
+    - ⚡ Fun fact: Video-games, anime, movies and a good beer .</br>
+    - 📝[Resume](https://github.com/Knd0/Knd0/blob/main/CV%20INGLES.pdf)</br>
 
-◉ Javacript
-◉ Node.js
-◉ React.js
-◉ Redux
-◉ Git
-◉ Boostrap
-◉ PostgreSQL
-◉ HTML
-◉ CSS
+ 
+---
+**Personal Projects** 📚 </br></br>
+<ul>
+ <li><a href="https://pf-henryss.vercel.app/">📈🚗 Cars E-Commerce</a></li>
+</ul>
+<br />
 
-# Contactame 
-Mail: sshojita11@gmail.com
-Linkedin: https://www.linkedin.com/in/santiago-silvera-287560145/
+---
+**Contact with me** 📝 </br></br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-silvera-287560145/)](https://www.linkedin.com/in/santiago-silvera-287560145/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshojita110@gmail.com)](mailto:multifranco0@gmail.com)
+<br />
+
+---
+
+### Languages and Tools 🛠 
+
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&link=https://github.com/Knd0)](https://github.com/SantiSilvera02)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-%23E44D27?style=flat-square&logo=tailwindCss&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/Knd0)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
+[![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/SantiSilvera02)](https://github.com/SantiSilvera02)
