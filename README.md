@@ -14,9 +14,9 @@
 <img  align="right" height="250px" width="400px" alt="GIF" src = https://www.medicaligne.fr/wp-content/uploads/2022/06/software.gif>
 
   **Algo sobre mi:** </br>
-    ◻ Me encuentro estudiando y aprendiendo tecnologias Frontend y Backend .</br>
-    ◻ Me gustaria ir creando varios proyectos personales para seguir aprendiendo e implementando nuevas tecnologais.</br>
-    ◻ Soy fanatico del cafe y del buen vino.</br>
+    - 🌱 Me encuentro estudiando y aprendiendo tecnologias Frontend y Backend .</br>
+    - 💡 Me gustaria ir creando varios proyectos personales para seguir aprendiendo e implementando nuevas tecnologais.</br>
+    - 🤙 Soy fanatico del cafe y del buen vino.</br>
     
 
  
