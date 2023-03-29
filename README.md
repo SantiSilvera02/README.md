@@ -7,11 +7,11 @@
    Bienvenidos a mi perfil 👋
   </h2>
  
-
+<img  align="center" height="250px" width="100%" alt="GIF" src = https://froggydevelopers.com/assets/img/planes.gif>
 
 ---
 
-<img  align="right" height="250px" width="400px" alt="GIF" src = https://www.medicaligne.fr/wp-content/uploads/2022/06/software.gif>
+
 
   **Algo sobre mi:** </br>
     - 🌱 Me encuentro estudiando y aprendiendo tecnologias Frontend y Backend .</br>
